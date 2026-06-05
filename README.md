@@ -1,2 +1,20 @@
-# susheel-dev-portfolio
-Personal portfolio website showcasing my engineering experience, IIT Madras BS degree journey, AI/ML learning path, and software development projects.
+# My Portfolio
+
+- Industrial Automation Experience
+- ABB Paint Robot Expertise
+- IIT Madras BS Degree Journey
+- Deep Learning
+- Computer Vision
+- Large Language Models
+- Software Development Projects
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+## Deployment
+
+https://github.com/bughunter-sks/susheel-dev-portfolio#
