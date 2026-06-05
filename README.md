@@ -1,20 +1,5 @@
-# My Portfolio
+# susheelshukla.github.io
 
-- Industrial Automation Experience
-- ABB Paint Robot Expertise
-- IIT Madras BS Degree Journey
-- Deep Learning
-- Computer Vision
-- Large Language Models
-- Software Development Projects
+Personal Profile of Susheel Kumar Shukla
 
-## Technologies
-
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
-
-## Deployment
-
-https://github.com/bughunter-sks/susheel-dev-portfolio#
+* My first commit for portfolio
