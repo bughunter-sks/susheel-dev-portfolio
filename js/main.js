@@ -393,8 +393,3 @@ backToTop.addEventListener(
 
 );
 */
-
-initializeSmoothScroll();
-initializeActiveNavigation();
-initializeCounters();
-updateFooterYear();
